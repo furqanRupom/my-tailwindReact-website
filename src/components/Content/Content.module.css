@@ -1,0 +1,11 @@
+.ForOverText{
+    line-height: 27px;
+    color: rgb(105, 91, 91);
+    font-size: 1rem;
+    padding: 1rem 0 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+}
